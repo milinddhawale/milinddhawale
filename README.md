@@ -49,7 +49,7 @@ Time series forecasting using **LSTM + ARIMA** for retail demand prediction.
 
 ## 📫 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/milinddhawale)  
-- ✉️ Email: dhawale.milind@gmail.com  
+- ✉️ Email: milinddhawale05@gmail.com 
 
 ---
 
